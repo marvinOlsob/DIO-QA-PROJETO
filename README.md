@@ -1,4 +1,4 @@
-Submissão dos documentos solicitados no Desafio de Projeto Dia a dia de um QA do Bootcamp da DIO.
+**Submissão dos documentos solicitados no Desafio de Projeto Dia a dia de um QA do Bootcamp da DIO**
 
 1. Casos de Teste
     Solicitado a criação de 4 casos de teste, sendo 2 deles no formato Step-by-Step e 2 no formato BDD-Gherkin.
