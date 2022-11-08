@@ -13,9 +13,9 @@
 - Fluxo de Trabalho
 
 **1. Casos de Teste**
-    - Solicitado a criação de 4 casos de teste, sendo 2 deles no formato Step-by-Step e 2 no formato BDD-Gherkin.
-    - Os 4 casos criados, 3 se referem a User Story (Adicionar produto ao carrinho) e 1 a User Story (remover produto do carrinho).
-    - Os 4 foram criados no Zephyr Scale incorporado ao Jira, e importado no formato Excel.
+- Solicitado a criação de 4 casos de teste, sendo 2 deles no formato Step-by-Step e 2 no formato BDD-Gherkin. 
+- Os 4 casos criados, 3 se referem a User Story (Adicionar produto ao carrinho) e 1 a User Story (remover produto do carrinho).
+- Os 4 foram criados no Zephyr Scale incorporado ao Jira, e importado no formato Excel.
 **2. User Story**
    - Solicitado a criação de duas User Story em relação a loja Swag Labs.
    - As duas User Story desenvolvidas foram: "Adicionar produto ao carrinho" e "Remover produto do carrinho".
