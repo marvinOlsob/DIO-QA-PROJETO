@@ -1,7 +1,8 @@
 # Desafio de Projeto Dia a Dia de um QA do Bootcamp da DIO
 
 ## Ferramentas utilizadas
-- JIRA
+- Gerenciamento do Projeto: JIRA
+- Colaboração/Documentação: Confluence
 - Zephyr Scale
 - XMind
 
